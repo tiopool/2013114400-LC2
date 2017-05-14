@@ -1,0 +1,12 @@
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\2013114400-PER.dll.config
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\2013114400-PER.dll
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\2013114400-PER.pdb
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\Ensambladora.Entities.dll
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\EntityFramework.dll
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\Ensambladora.Entities.pdb
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\EntityFramework.xml
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\obj\Debug\2013114400-PER.csprojResolveAssemblyReference.cache
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\obj\Debug\2013114400-PER.dll
+C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\2013114400-PER\obj\Debug\2013114400-PER.pdb

@@ -1,0 +1,8 @@
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\bin\Debug\Ensambladora.Console.exe.config
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\bin\Debug\Ensambladora.Console.exe
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\bin\Debug\Ensambladora.Console.pdb
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\bin\Debug\Ensambladora.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\bin\Debug\Ensambladora.Entities.pdb
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\obj\Debug\Ensambladora.Console.csprojResolveAssemblyReference.cache
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\obj\Debug\Ensambladora.Console.exe
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Entities.Console\obj\Debug\Ensambladora.Console.pdb
