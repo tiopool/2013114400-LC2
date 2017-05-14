@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ensambladora.Entities.IRepositories
 {
-    interface IVolanteRepository
+    public interface IVolanteRepository
     {
     }
 }
