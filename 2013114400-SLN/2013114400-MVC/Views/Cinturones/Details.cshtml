@@ -1,0 +1,43 @@
+﻿@model _2013114400_ENT.Entities.Cinturon
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Cinturon</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Asiento.NumSerie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Asiento.NumSerie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumSerie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumSerie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Metraje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Metraje)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CinturonId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

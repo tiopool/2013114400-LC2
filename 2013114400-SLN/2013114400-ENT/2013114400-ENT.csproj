@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81634C3B-9CB2-46D2-9DB1-3BFDB5BC4E54}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_2013114400_ENT</RootNamespace>
+    <AssemblyName>2013114400-ENT</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Asiento.cs" />
+    <Compile Include="Entities\Automovil.cs" />
+    <Compile Include="Entities\Bus.cs" />
+    <Compile Include="Entities\Carro.cs" />
+    <Compile Include="Entities\Cinturon.cs" />
+    <Compile Include="Entities\Ensambladora.cs" />
+    <Compile Include="Entities\Llanta.cs" />
+    <Compile Include="Entities\Parabrisas.cs" />
+    <Compile Include="Entities\Propietario.cs" />
+    <Compile Include="Entities\Volante.cs" />
+    <Compile Include="Enum\TipoAuto.cs" />
+    <Compile Include="Enum\TipoBus.cs" />
+    <Compile Include="Enum\TipoCarro.cs" />
+    <Compile Include="IRepositories\IAsientoRepository.cs" />
+    <Compile Include="IRepositories\IAutomovilRepository.cs" />
+    <Compile Include="IRepositories\IBusRepository.cs" />
+    <Compile Include="IRepositories\ICarroRepository.cs" />
+    <Compile Include="IRepositories\ICinturonRepository.cs" />
+    <Compile Include="IRepositories\IEnsambladoraRepository.cs" />
+    <Compile Include="IRepositories\ILlantaRepository.cs" />
+    <Compile Include="IRepositories\IParabrisasRepository.cs" />
+    <Compile Include="IRepositories\IPropietarioRepository.cs" />
+    <Compile Include="IRepositories\IRepository.cs" />
+    <Compile Include="IRepositories\IUnityOfWork.cs" />
+    <Compile Include="IRepositories\IVolanteRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013114400-ENT", "2013114400-ENT\2013114400-ENT.csproj", "{81634C3B-9CB2-46D2-9DB1-3BFDB5BC4E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013114400-PER", "2013114400-PER\2013114400-PER.csproj", "{40831704-AA5C-4366-AB91-9330B36071C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013114400-MVC", "2013114400-MVC\2013114400-MVC.csproj", "{789AF2AD-FE99-4DBF-9F56-6A74E3A8A3AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013114400-WebApi", "2013114400-WebApi\2013114400-WebApi.csproj", "{CAD71D3C-EAC2-472A-8163-A089FAD947BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81634C3B-9CB2-46D2-9DB1-3BFDB5BC4E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81634C3B-9CB2-46D2-9DB1-3BFDB5BC4E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81634C3B-9CB2-46D2-9DB1-3BFDB5BC4E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81634C3B-9CB2-46D2-9DB1-3BFDB5BC4E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40831704-AA5C-4366-AB91-9330B36071C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40831704-AA5C-4366-AB91-9330B36071C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40831704-AA5C-4366-AB91-9330B36071C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40831704-AA5C-4366-AB91-9330B36071C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789AF2AD-FE99-4DBF-9F56-6A74E3A8A3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789AF2AD-FE99-4DBF-9F56-6A74E3A8A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789AF2AD-FE99-4DBF-9F56-6A74E3A8A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789AF2AD-FE99-4DBF-9F56-6A74E3A8A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD71D3C-EAC2-472A-8163-A089FAD947BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD71D3C-EAC2-472A-8163-A089FAD947BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD71D3C-EAC2-472A-8163-A089FAD947BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD71D3C-EAC2-472A-8163-A089FAD947BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

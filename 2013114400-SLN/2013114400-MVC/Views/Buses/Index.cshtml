@@ -1,0 +1,64 @@
+﻿@model IEnumerable<_2013114400_ENT.Entities.Bus>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ensambladora.EnsambladoraId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Propietario.DNI)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoCarro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumSerieChasis)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumSerieMotor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoBus)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ensambladora.EnsambladoraId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Propietario.DNI)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoCarro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumSerieChasis)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumSerieMotor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoBus)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CarroId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CarroId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CarroId })
+        </td>
+    </tr>
+}
+
+</table>

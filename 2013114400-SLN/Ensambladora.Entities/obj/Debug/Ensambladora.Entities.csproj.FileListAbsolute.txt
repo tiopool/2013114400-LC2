@@ -1,9 +1,0 @@
-c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\bin\Debug\Ensambladora.Entities.dll
-c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\bin\Debug\Ensambladora.Entities.pdb
-c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.dll
-c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.pdb
-C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\Ensambladora.Entities\bin\Debug\Ensambladora.Entities.dll
-C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\Ensambladora.Entities\bin\Debug\Ensambladora.Entities.pdb
-C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.csprojResolveAssemblyReference.cache
-C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.dll
-C:\Users\César\Documents\Visual Studio 2017\2013114400\2013114400-LC2\2013114400-SLN\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.pdb
