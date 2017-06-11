@@ -17,5 +17,7 @@ namespace _2013114400_ENT.Entities
 
         public int CarroId { get; set; }
 
+
+
     }
 }
